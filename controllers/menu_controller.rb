@@ -25,17 +25,21 @@ class MenuController
       main_menu
     when 2
       system "clear"
-      create_entry
+      view_entry_by_n
       main_menu
     when 3
       system "clear"
-      search_entries
+      create_entry
       main_menu
     when 4
       system "clear"
-      read_csv
+      search_entries
       main_menu
     when 5
+      system "clear"
+      read_csv
+      main_menu
+    when 6
       puts "Good-bye!"
       exit(0)
     else
@@ -43,6 +47,7 @@ class MenuController
       puts "Sorry, that is not a valid input"
       main_menu
     end
+
   end
 
   def view_all_entries
