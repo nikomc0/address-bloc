@@ -27,6 +27,18 @@ require "csv"
       csv.each do |row|
         row_hash = row.to_hash
         add_entry(row_hash["name"], row_hash["phone_number"], row_hash["email"])
+
+    def remove_entry (name, phone_number, email)
+      entry_index = nil
+
+      entries.each_with_index do |entry, index|
+        if name == entry.name && phone_number == entry.phone_number && email == entry.email
+          entry_index = index
+        end
+
+        if entry_index
+          entries.delete_at(entry_index)
+        end
       end
     end
 
