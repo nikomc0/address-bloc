@@ -1,7 +1,7 @@
 # Address Bloc
 Address Bloc is a command line user interface that has basic CRUD (Create, Read, Update, Delete) capabilities, import a CSV file, and a search function, all built in ruby.
 
-![](https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Main%20Menu.png | width=100p)
+![](https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Main%20Menu.png){:height="50%" width="50%"}
 ## Create
 ![](https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Create%20feature.png)
 
