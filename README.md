@@ -16,7 +16,7 @@ Address Bloc is a command line user interface that has basic CRUD (Create, Read,
 <div align="center">
   <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%201.png" width=350 style="float:left;">
 
-  <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%202.png" width=350 style="float:left;">
+  <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%202.png" width=300 style="float:left;">
 
 </div>
 
