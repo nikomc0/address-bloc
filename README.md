@@ -4,18 +4,24 @@ Address Bloc is a command line user interface that has basic CRUD (Create, Read,
 <p align="center">
 <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Main%20Menu.png" width=550>
 </p>
+
 ## Create
+
 <p align="center">
 <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Create%20feature.png" width=550>
 </p>
 
 
 ## Read
-<p align="center">
+<div align="center">
+<div style="float:left;"
 <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%201.png" width=550>
+</div>
 
+<div>
 <img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%202.png" width=550>
-</p>
+</div>
+</div>
 
 ## Search
 The program can search by name
