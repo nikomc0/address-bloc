@@ -8,14 +8,14 @@ Address Bloc is a command line user interface that has basic CRUD (Create, Read,
 ## Create
 
 <p align="center">
-<img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Create%20feature.png" width=550>
+<img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Create%20feature.png" width=250>
 </p>
 
 
 ## Read
 <div align="center">
 <div style="float:left;"
-<img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%201.png" width=550>
+<img src="https://github.com/nikomc0/address-bloc/blob/master/Address%20Bloc%20Images/Read%20feature%201.png" width=250>
 </div>
 
 <div>
